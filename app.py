@@ -165,15 +165,6 @@ with col2:
 4. Naive Bayes (Gaussian)  
 5. Random Forest (Ensemble)  
 6. XGBoost (Ensemble)
-
-**How to deploy (Streamlit Community Cloud)**
-- Push this repo to GitHub
-- Go to Streamlit Community Cloud → *New app* → select this repo
-- Choose `app.py` and deploy
-
-**Expected test CSV format**
-- 30 feature columns (same as dataset feature names)
-- Optional: `target` column (0/1)
         """
     )
 
